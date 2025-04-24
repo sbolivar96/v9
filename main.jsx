@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import UserAnalytics from './UserAnalytics.jsx';
 import CatAtGreatWall from './CatAtGreatWall.jsx';
-import ArtBankConcertFinder from './Artbank_concert_finder.jsx';
+import ArtBankConcertFinder from './ArtBankConcertFinder.jsx';
 
 const App = () => {
   const pathname = window.location.pathname;
