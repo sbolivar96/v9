@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/cat-at-great-wall", "destination": "/" },
+    { "source": "/analytics", "destination": "/" }
+  ]
+}
